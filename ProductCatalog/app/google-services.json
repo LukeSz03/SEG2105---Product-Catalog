@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221429100194",
+    "project_id": "catalog-801d5",
+    "storage_bucket": "catalog-801d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221429100194:android:44330f18367637700131fb",
+        "android_client_info": {
+          "package_name": "com.uotttawa.lschu105.productcatalog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOqqMErRQIS9RYpGSGs3PlOgZyIYv0Ld8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
